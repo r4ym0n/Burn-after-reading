@@ -1,0 +1,1 @@
+DEBUG=BFR:* npm start
