@@ -1,0 +1,1 @@
+DEBUG=BAR:* npm start
